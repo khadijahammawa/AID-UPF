@@ -1,0 +1,11 @@
+Shoulder Exercise Quality Dataset
+.vscode
+.DS_Store
+.idea
+__pycache__
+dataset/poses
+images_for_test
+thunder.tflite
+split_dataset
+poses_images_out_test
+poses_images_out_train
